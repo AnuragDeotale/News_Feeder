@@ -15,5 +15,5 @@ Ensure you have Python installed on your system. You can check by running:
 python --version
 
 ### How to run 
- 1st run topnews.py
+ 1st run topnews.py <br>
  2nd run notifier.py
